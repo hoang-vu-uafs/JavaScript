@@ -1,0 +1,13 @@
+{
+  "name": "import",
+  "version": "1.0.0",
+  "description": "import testing",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node import-2.js"
+  },
+  "author": "Hoang Vu",
+  "license": "ISC"
+}
